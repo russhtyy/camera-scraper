@@ -1,21 +1,21 @@
-# cameras-scraper
-A simple python www.insecam.org public IP and Ports cameras scraper.
-# what is this for?
-- With this tool, you can scrape public cameras based on your desired country and save all the gateway links in a Text File.
+📌 This program will show you hacked IP cameras CCTV in the world.
+📌 To use it, you need to write these commands in your Linux Server:
 
-# how does it work
-- It scrapes all the pages from the www.insecam.org website, and uses Threads to scrape them.
-  
-# usage
-- git clone https://github.com/scorpeus/cameras-scraper
-- cd cameras-scraper
-- pip3 install concurrent, user_agent, colorama
-- python3 main.py
+```
+git clone https://github.com/scorpeus/camera-scraper
+cd camera-scraper
+pip3 install user_agent
+pip3 install colorama
+pip3 install concurrent
+```
 
-# screenshots
-![alt_text]((https://telegra.ph/file/61ab104bc5395a85f7303.jpg)
+☑️ To start you need write command: `python3 main.py`
+
+# Example Screenshot #1
+![alt_text](https://telegra.ph/file/61ab104bc5395a85f7303.jpg)
+# Example Screenshot #2
 ![alt_text](https://telegra.ph/file/f476e925a5c0bc89c7ba9.jpg)
 
+*🚩 Thank you for downloading and using this program :)*
 
-
-# Contact me on Telegram if you have any question. t.me/serio.
+*📑 For any problem or question, [contact me on Telegram](https://t.me/serio)!*
